@@ -11,6 +11,5 @@
 <br>
 <img src= "https://github.com/leonardosantos10/Dev-coffee/blob/main/imgs/img-desktop-2.png?raw=true"/>
 <br>
-<img src= "https://github.com/leonardosantos10/Projeto-Diaristas2/blob/main/imgs-do-projeto/img-desktop3.png?raw=true"/>
+<img src= "https://github.com/leonardosantos10/Dev-coffee/blob/main/imgs/img-desktop3.png?raw=true"/>
 <br>
-<img src= "https://github.com/leonardosantos10/Projeto-Diaristas2/blob/main/imgs-do-projeto/img-desktop4.png?raw=true"/>
